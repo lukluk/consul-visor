@@ -1,2 +1,2 @@
-# hadir
-hadir is a worker that make sure all services in consul present
+# visor
+visor is a worker that make sure all services in consul present
